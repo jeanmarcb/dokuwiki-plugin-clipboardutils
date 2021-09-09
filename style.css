@@ -1,0 +1,15 @@
+
+
+span.vclipu:hover {
+	color : #15AABF;
+}
+span.vclipu:active {
+	color : #0B5660;
+}
+
+.bclipu:hover {
+	background-color : #E4E7DC;
+}
+.bclipu:active {
+	background-color : #EDEEFF;
+}

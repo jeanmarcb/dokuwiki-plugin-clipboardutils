@@ -1,0 +1,7 @@
+base   clipboardutils
+author jean-marc Boulade
+email  jean-marc@boulade.com
+date   2021-09-09
+name   Clipboard Utils Plugin
+desc   Functionalities to use clipboard : buttons, links ...
+url    http://www.dokuwiki.org/plugin:clipboardutils
